@@ -1,12 +1,10 @@
 # Nvidyarthi
-About Me
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 🚀 About Me
 
-🎓 
-
+🎓 Ms Embedded Systems - Software and Networking  - TU Delft
 
 
 ## 🛠️ Skills
@@ -15,6 +13,7 @@ About Me
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 
 
 
